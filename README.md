@@ -1,5 +1,5 @@
 ## CybStSvpn
-site-to-stie vpn with DMZ. Please refer the `topology image` for the architecture used.
+site-to-stie vpn with DMZ. Please refer the `Eburkina-test-topo.png` image for the network topology used.
 
 ### Before jumping to site-to-site vpn:
 1. **Install GNS3**: Ensure GNS3 is installed and running on the specified server and listening on 0.0.0.0 not on a localhost.
